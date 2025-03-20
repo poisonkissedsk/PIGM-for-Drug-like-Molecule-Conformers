@@ -1,6 +1,6 @@
 ![Cholesterol generation](media/cholesterol.frames.png)
 
-# Physics-informed generative model for drug-like molecule conformers
+# Physics-Informed Generative Model for Drug-like Molecule Conformers
 
 This package provides an implementation of the
 generative model as described by the article:
