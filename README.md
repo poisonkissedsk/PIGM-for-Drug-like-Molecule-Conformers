@@ -1,6 +1,6 @@
 ![Cholesterol generation](media/cholesterol.frames.png)
 
-# Physics-Informed Generative Model for Drug-like Molecule Conformers
+# PIGM for Drug-like Molecule Conformers
 
 
 ## Requirements
